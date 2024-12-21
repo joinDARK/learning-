@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.app
+
+bin/
+
+.DS_Store
+.env
